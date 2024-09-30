@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm  a dedicated Computer Science (Infrastructure) student at Technological University Dublin, graduating in 2026. With a strong foundation in programming languages such as Python, Java, C, and JavaScript, Max has honed skills in web development, networking (Cisco Certified), and database management. He has developed several projects, including an AI-powered Tic Tac Toe game and a language translation app. Max is passionate about technology, particularly artificial intelligence and networking, and is constantly expanding his knowledge through hands-on projects and certifications. He is fluent in English and Russian, with proficiency in Irish and Spanish.</p>
+<p align="left">I'm  a dedicated Computer Science (Infrastructure) student at Technological University Dublin, graduating in 2026. With a strong foundation in programming languages such as Python, Java, C, and JavaScript, I have honed skills in web development, networking (Cisco Certified), and database management. I has developed several projects, including an AI-powered Tic Tac Toe game and a language translation app. Max is passionate about technology, particularly artificial intelligence and networking, and is constantly expanding his knowledge through hands-on projects and certifications. He is fluent in English and Russian, with proficiency in Irish and Spanish.</p>
 
 ###
 
