@@ -4,14 +4,6 @@
 
 <p align="left">I'm  a dedicated Computer Science (Infrastructure) student at Technological University Dublin, graduating in 2026. With a strong foundation in programming languages such as Python, Java, C, and JavaScript, I have honed skills in web development, networking (Cisco Certified), and database management. I has developed several projects, including an AI-powered Tic Tac Toe game and a language translation app. I'm passionate about technology, particularly artificial intelligence and networking, and is constantly expanding his knowledge through hands-on projects and certifications. I'm is fluent in English and Russian, with proficiency in Irish and Spanish.</p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hiroshinoharu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hiroshinoharu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <p align="left"></p>
 
