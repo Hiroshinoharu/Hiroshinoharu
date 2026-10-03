@@ -90,6 +90,11 @@ Key areas of study include:
 - Enterprise Application Development
 - System & Database Administration
 
+### Currently Learning
+- Kubernetes
+- Cloud-native development
+- AI agent infrastructure
+
 ## 📫 Connect With Me
 
 - Portfolio: https://max-ceban.vercel.app
